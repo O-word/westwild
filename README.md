@@ -1,6 +1,6 @@
 # Westwild
 
-**A free spaghetti-western tabletop RPG.** It failed on Kickstarter because it never got enough eyes, so now it's free.
+**A free spaghetti-western tabletop RPG.** It failed on Kickstarter. After creating it, I realized I hadn't built much of a funnel to market it with. So it's yours for free.
 
 ## Three ways to play
 1. **The built-in tabletop on the site: wordblocklabs.com/westwild.** Web-based, nothing to install. Open it in a browser and you can start in about sixty seconds. For a table, the host opens the DM session and issues a **QR code for each player slot**; each player scans theirs with their own phone or tablet to sync to their **player deck**, so everyone holds their own character. Nothing is uploaded anywhere.
@@ -12,7 +12,7 @@ Any of the three is fine. The site's version is the one we built and tuned; the 
 This repository holds what travels with the game: the rules and guides, the starter campaigns, the license files, and the story of why it is free.
 
 ## Why Westwild is free
-Westwild is a passion project. I started writing one day, liked what I had, and kept going. It took me most of a year. It launched as a Kickstarter campaign in June 2026 and did not fund. I could not get enough eyes on it. Instead of letting it sit in a drawer, I am releasing it free to play. If you want to use it to make money, request a license (see `COMMERCIAL_LICENSE.md`). Thank you to my one backer, who was never charged and who believed in it first.
+Westwild is a passion project. I started writing one day, liked what I had, and kept going. It took me most of a year. It launched as a Kickstarter campaign in June 2026 and did not fund. After creating it, I realized I hadn't built much of a funnel to market it with. Instead of letting it sit in a drawer, I am releasing it free to play. If you want to use it to make money, request a license (see `COMMERCIAL_LICENSE.md`). Thank you to my one backer, who was never charged and who believed in it first.
 
 ## What is here
 - **Rules and guides:** `rules-and-guides/`, the Word documents the site's guides are built from (quick start, classes, races, loot and travel events, bestiary, almanac, and the setting documents).

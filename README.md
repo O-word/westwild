@@ -32,4 +32,4 @@ Free and source-available, not open source in the strict sense. Home games, onli
 Written by Anthony "Othello" Merriweather. Pixel map by Michelle (mich-spich.carrd.co): she worked quickly, was kind through the whole process and did great work, so if you need commissioned art, send her your work. The creative writing (rules, setting, lore, the Gazette) is human-written; the written code was produced with AI tools under the author's direction. Everything runs in your browser; nothing is uploaded anywhere.
 
 ## Bugs
-Send problems to support@wordblocklabs.com with the subject "Westwild bug report".
+Send problems through the form at **wordblocklabs.com/support** or email support@wordblocklabs.com with the subject "Westwild bug report".
